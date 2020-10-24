@@ -1,6 +1,6 @@
 # HackerEarth Deep Learning challenge: #FriendshipGoals
 
-## PROBLEM OVERVIEW
+### PROBLEM OVERVIEW
 
   Your task is to build a Deep Learning model that analyzes an image of a gathering among friends and classifies them into groups of toddlers, teenagers, or adults.
   
@@ -18,6 +18,8 @@
   
 ### RESULT AND LEADERBOARD
   [LB link](https://www.hackerearth.com/challenges/competitive/hackerearth-deep-learning-challenge-friendship-day/leaderboard/friendship-goals-4-8aa488d0/)
+  
+  https://user-images.githubusercontent.com/32522581/97069124-85219300-15eb-11eb-818d-fe8d4e9b4ba9.png
   
 
   
