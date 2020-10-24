@@ -16,10 +16,14 @@
   1. Nadam algorithm is used for optimization.
   1. Categorical_crossentropy is used as loss function.
   
+### EVALUATION METRIC
+
+![alt_tag](https://user-images.githubusercontent.com/32522581/97069175-fc572700-15eb-11eb-8310-52eb345a5f3e.png)
+  
 ### RESULT AND LEADERBOARD
   [LB link](https://www.hackerearth.com/challenges/competitive/hackerearth-deep-learning-challenge-friendship-day/leaderboard/friendship-goals-4-8aa488d0/)
   
-  https://user-images.githubusercontent.com/32522581/97069124-85219300-15eb-11eb-818d-fe8d4e9b4ba9.png
+  ![alt_tag](https://user-images.githubusercontent.com/32522581/97069124-85219300-15eb-11eb-818d-fe8d4e9b4ba9.png)
   
 
   
